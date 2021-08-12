@@ -1,2 +1,2 @@
 # hello-world
-First try
+I am Gregory and this is my first chapter in software development.
